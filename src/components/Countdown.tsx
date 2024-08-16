@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 export const Countdown = () => {
   // The timer displays the amoint time left from now to 250126
   // DEN HÄR SKA MED IMORGON
